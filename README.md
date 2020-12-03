@@ -3,7 +3,7 @@
 The purpose of the project
 ------------
 
-This is a semi-reliable ftp-like protocol, which supports encryption and encoding of packets using RSA, ftp-like file management commands, result codes based on the result of the command at the transport layer, custom errors
+This is a semi-reliable ftp-like protocol, which supports encoding and encryption of packets using RSA, ftp-like file management commands, result codes based on the result of the command at the transport layer, custom errors
 
 
 Implementation
